@@ -1,3 +1,31 @@
 Saya Muhammad Ilham Malik mengerjakan TP 1 dari mata kuliah 
 Desain PBO untuk keberkahannNYa maka saya tidak melakukan kecurangan 
 seperti yang telah dispesifikasikan.
+
+Fitur-Fitur yang ada
+>Fitur sudah sesuai dengan yang dispesifikan
+>Fitur login dengan username bebas dan password "pbo123"
+>Jika btn beli diklik maka akan menampilkan detail barang
+>Jika btn filter diklik maka akan memfilter tampilan dari barang yang ada sesuai filter
+>Jika menu home diklik mereload semua data yang ada
+>Jika web katalog diklik maka akan membuka web shopee
+>jika logout diklik maka akan keluar
+>Jika form login tidak diisi maka akan keluar peringatan
+>Jika form filter tidak diisi dan mengklik btn filter maka akan keluar peringatan
+>Jika Salah satu form tidak diisi maka akan mengeluarkan peringatan
+
+Kesulitan Yang Dialami
+>Masih belum terlalu paham dalam akses target class serta attribut atau properties yang diberikan
+>Masih kesulitan membuat method
+>Masih kesulitan dalam menggunakan fungsi library yang ada
+
+Hal-Hal Baru Yang Dipelajari
+>Mempelajari fitur fitur baru dari visual studio 2019
+>Mempelajari bagaimana cara membuat sebuah tool sendiri tanpa menggunakan bantuan interface
+>Mempelajari cara membuat output yang bersifat dinamis
+>Mempelajari untuk lebih sabar lagi dalam memeriksa kode jikalau ada error yang kurang jelas
+>Mempelajari cara untuk mengupload foto
+>Mempelajari penggunaan list of object
+>Mempelajari penggunaan method
+>Mempelajari foreach
+>Banyak Hal yang dipelajari namun sepertinya lupa untuk tertuliskan karena fokus dalam pengerjaan tp saat itu
