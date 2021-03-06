@@ -169,7 +169,7 @@ namespace TP1PBO
 
         private void btnFilter_Click(object sender, EventArgs e)
         {
-            if(cboHarga.SelectedItem == null && cboJenisBarang.SelectedItem == null)
+            if(cboHarga.SelectedItem == null || cboJenisBarang.SelectedItem == null)
             {
                 MessageBox.Show("Tolong Masukan Kedua Filter");
             }
