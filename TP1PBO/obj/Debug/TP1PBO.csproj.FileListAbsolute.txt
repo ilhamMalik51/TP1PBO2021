@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\bin\Debug\TP1PBO.exe.config
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\bin\Debug\TP1PBO.exe
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\bin\Debug\TP1PBO.pdb
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.Properties.Resources.resources
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.exe
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.pdb
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.LoginPage.resources
+C:\Users\USER\source\repos\TP1PBO\TP1PBO\obj\Debug\TP1PBO.Home.resources
